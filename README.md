@@ -1,0 +1,2 @@
+# commonCharcterCount
+commonCharacterCount PHP method
